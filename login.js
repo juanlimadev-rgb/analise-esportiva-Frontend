@@ -1,4 +1,4 @@
-const API_BASE = "https://analise-esportiva-0027.onrender.com";
+const API_BASE = "https://analise-esportiva-ooz7.onrender.com";
 
 const form = document.getElementById("form-login");
 
